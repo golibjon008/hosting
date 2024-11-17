@@ -1,0 +1,64 @@
+.text1{
+    color: red;
+}
+.text2{
+    color: blue;
+}
+.text3{
+    color: rgb(18, 18, 21);
+}
+.text4{
+    color: rgb(50, 237, 166);
+}
+.text5{
+    color: rgb(64, 64, 111);
+}
+.text6{
+    color: rgb(145, 203, 21);
+}
+.text7{
+    color: black;background-color: blue;
+}
+.text8{
+    color: antiquewhite;background-color: aqua;border-radius: 20px;font-size: large;text-align: center;
+}
+.text9{
+    color: blanchedalmond;background-color: black;border-radius: 10px;text-align: center;
+
+}
+.text10{
+    color: chartreuse;background-color: blueviolet;
+}
+.text11{
+    color: chocolate;background-color: crimson;width: 100%;
+
+}
+.text12{
+    color: aliceblue;background-color: darkgoldenrod;
+}
+.text13{
+    color: yellow;background-color: wheat;
+
+}
+.text14{
+    color: violet;background-color: thistle;border-radius: 30px;text-align: justify;
+
+}
+.text15{
+    color: teal;background-color: slategray;font-size: 40px;
+}
+.text16{
+    color: blue;
+}
+.text17{
+    background-color: rgb(50, 237, 166);text-align: center;
+}
+.text18{
+    color: springgreen;background-color:black ;
+}
+.text19{
+    background-color: brown;border-radius: 40px;
+}
+.text20{
+    color: antiquewhite;background-color: brown;font-size: 30px;border: 50px;
+}
